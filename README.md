@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vi94.patel@gmail.com)
 [![GitHub Projects](https://img.shields.io/badge/Projects-Explore-green?style=for-the-badge&logo=github)](https://github.com/vishruti-patel?tab=repositories)
 
-## 📊 Data Analyst | Business Intelligence Engineer | Data Storyteller
+## 📊 Sr. Engineer | Data Storyteller
 
 📍 **Dublin, CA** | 🛠️ **H1B Visa Holder**
 
